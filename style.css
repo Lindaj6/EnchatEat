@@ -4,6 +4,8 @@
 }
 .signup {
     font-family: 'Bilbo Swash Caps';
+   background-color: #96C3CE ;
+   color: #96C3CE;
 }
 .footer {
     font-family: 'Bilbo Swash Caps';
@@ -11,9 +13,13 @@
       margin-top: auto;
     }
     
-.card {
-   background-color: #96C3CE ;
-}
 .footer-info {
     font-size: 93%;
+}
+
+.loglink {
+    color:#B57BA6;
+}
+.card-title {
+    font-family:'Bilbo Swash Caps' ;
 }
