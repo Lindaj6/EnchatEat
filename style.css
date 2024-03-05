@@ -27,10 +27,15 @@ img {
     max-width: 100%;
     height: 50;
     }
+<<<<<<< HEAD
     .carousel-control-next-icon {
         color:#0482AA;
     }
 .img-size {
     height:250px;
     width:250px;
+=======
+.ftc {
+    color:#B57BA6
+>>>>>>> ab98ddbc4aaeea4c03da4db4743f0fde95a5f0cc
 }
