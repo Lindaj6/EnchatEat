@@ -13,7 +13,7 @@
 ?>
   <center>
     <br>
-    <a class="nav-link" href="Ordernow.html"><h1 class="loglink text-decoration-underline" >LIMITED OFFER!</h1></a>
+    <a class="nav-link" href="Ordernow.php"><h1 class="loglink text-decoration-underline" >LIMITED OFFER!</h1></a>
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
 
       <div class="carousel-inner">
