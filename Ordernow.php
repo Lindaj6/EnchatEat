@@ -19,7 +19,7 @@
 
   <body>
     <?php
-      includes 'includes/header.php'
+      include 'include/header.php';
     ?>
 
     <br>

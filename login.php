@@ -9,7 +9,7 @@
   </head>
   <body>
     <?php
-      includes 'includes/header.php'
+      include 'include/header.php';
     ?>
 
 <div class="row">

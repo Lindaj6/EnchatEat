@@ -9,11 +9,10 @@
   </head>
   <body>
 <?php
-  includes 'includes/header.php'
+  include 'include/header.php';
 ?>
   <center>
     <br>
-
     <a class="nav-link" href="Ordernow.html"><h1 class="loglink text-decoration-underline" >LIMITED OFFER!</h1></a>
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
 

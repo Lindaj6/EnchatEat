@@ -9,7 +9,7 @@
   </head>
   <body>
     <?php
-      includes 'includes/header.php'
+      include 'include/header.php';
     ?>
     
     <div class="mx-auto p-5" style="width: 600px;">
